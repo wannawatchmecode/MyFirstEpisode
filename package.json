@@ -1,0 +1,30 @@
+{
+  "name": "myfirstepisode",
+  "version": "0.1.0",
+  "description": "The repo for first episode of wannawatchmecode",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "tscHelp": "tsc --help",
+    "app": "node dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannawatchmecode/MyFirstEpisode.git"
+  },
+  "keywords": [
+    "wannawatchmecode",
+    "episode1",
+    "noideawhatthiswilldo"
+  ],
+  "author": "WannaWatchMeCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wannawatchmecode/MyFirstEpisode/issues"
+  },
+  "homepage": "https://github.com/wannawatchmecode/MyFirstEpisode#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
